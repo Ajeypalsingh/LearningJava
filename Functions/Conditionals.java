@@ -1,4 +1,4 @@
-package Java;
+package Java.Functions;
 import java.util.Scanner;
 
 public class Conditionals {
